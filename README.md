@@ -41,7 +41,7 @@ Next state of the D flip-flop is always equal to the data input, D for every pos
 **PROGRAM**
 
 Program for flip-flops and verify its truth table in quartus using Verilog programming. 
-### Developed by: ANU VARSHINI M B RegisterNumber: 212223240010
+### Developed by: Manasa S RegisterNumber: 24900169
 ```
 module dflip(d,clk,q,qbar);
 input d,clk;
@@ -56,9 +56,11 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![WhatsApp Image 2024-10-24 at 11 11 08_74a3588b](https://github.com/user-attachments/assets/2ea46065-c901-4c0b-8711-34e8eabc86da)
 
 **TIMING DIAGRAMS FOR FLIP FLOPS**
+
 ![WhatsApp Image 2024-10-24 at 11 16 26_44fcd80b](https://github.com/user-attachments/assets/894b38fa-744c-4a87-966a-230b9d4a3bf3)
 
 
